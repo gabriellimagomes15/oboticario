@@ -156,6 +156,8 @@ Em termos práticos:
 ```text
 ├── README.md
 │
+├── requirements.txt
+│
 ├── notebooks/
 │   ├── case_boticario.ipynb
 │
@@ -171,9 +173,6 @@ Em termos práticos:
 │
 ├── src/
 │   ├── func_util.py
-|
-└── presentation/
-    ├── apresentacao_final.pdf
 ```
 
 ---
@@ -208,6 +207,12 @@ Em termos práticos:
 ---
 
 ## 🚀 Como Executar
+
+### Instalar Libs
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Executar o Notebook
 
